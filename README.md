@@ -1,4 +1,4 @@
-<h3>Olá👋, Meu nome é Abner Alves e atualmente sou um estudante e desenvolvedor front-end. No entanto, meu objetivo é migrar e aprender mais sobre o Back-end, por isso venho me dedicando aos estudos. Estou sempre em busca de aprimorar minhas habilidades para me tornar um profissional mais completo e preparado para os desafios do mercado.</h3>
+<h3>"Olá 👋, meu nome é Abner Alves, sou estudante e desenvolvedor front-end. Estou dedicado a expandir meu conhecimento no desenvolvimento web e a aprimorar minhas habilidades nesse campo."</h3>
 
 ##
 
