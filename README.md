@@ -4,8 +4,6 @@
 
 <p>"Olá! Meu nome é Abner Alves, sou desenvolvedor e estudante de Análise e Desenvolvimento de Sistemas, atualmente no 5º semestre. Minha especialidade é o desenvolvimento front-end, criando interfaces modernas e responsivas, mas também estou expandindo meu conhecimento para o back-end, buscando me tornar um desenvolvedor mais completo. Sempre estou aprendendo novas tecnologias e aprimorando minhas habilidades." 🚀</p>
 
-##
-
 ![Banner](https://res.cloudinary.com/superfolio/image/upload/v1620689979/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f63362f33332f63322f63363333633230656465383266306530636564376435373064626533613166332e676966_yjuh2s.gif)
 
 <div style="display: inline_block"><br>
