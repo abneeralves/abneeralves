@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0F2580&height=120&section=header"/>
 
-## Abner Alves - Software Developer
+## Abner Alves - Full Stack Developer
 
 <p>"Olá! Meu nome é Abner Alves, sou formado em Análise e Desenvolvimento de Sistemas e atuo como desenvolvedor de software. Estou sempre aprendendo novas tecnologias e aprimorando minhas habilidades para evoluir constantemente na área."</p>
 
