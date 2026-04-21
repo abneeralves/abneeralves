@@ -7,8 +7,8 @@
 ![Banner](https://res.cloudinary.com/superfolio/image/upload/v1620689979/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f63362f33332f63322f63363333633230656465383266306530636564376435373064626533613166332e676966_yjuh2s.gif)
 
 <p align="center">
-  <img height="180em" src="https://streak-stats.demolab.com?user=abneeralves&theme=tokyonight"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abneeralves&layout=compact&theme=tokyonight"/>
+  <img height="170em" src="https://streak-stats.demolab.com?user=abneeralves&theme=tokyonight"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abneeralves&layout=compact&theme=tokyonight"/>
 </p>
 
 <p align="center">
@@ -23,7 +23,7 @@
   <img height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
 </p>
 
-##
+## 🚀 Vamos nos conectar?
 
 <div align="center"> 
   <a href="https://portfolioabneralves.vercel.app" target="_blank"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=#FF7139" target="_blank"></a>
