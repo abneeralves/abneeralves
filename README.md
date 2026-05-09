@@ -1,8 +1,9 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0F2580&height=120&section=header&text=Abner%20Alves&fontSize=40&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer&descAlignY=58&descSize=16"/>
 
 <p align="center">
-  <em>"Olá! Meu nome é Abner Alves, sou formado em Análise e Desenvolvimento de Sistemas e atuo como desenvolvedor de software. Estou sempre aprendendo novas tecnologias e aprimorando minhas habilidades para evoluir constantemente na área."</em>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=7AA2F7&center=true&vCenter=true&width=900&lines=Ol%C3%A1!+Meu+nome+%C3%A9+Abner+Alves,+sou+formado+em+An%C3%A1lise+e+Desenvolvimento+de+Sistemas;Atuo+como+desenvolvedor+de+software+e+estou+sempre+aprendendo+novas+tecnologias;+e+aprimorando+minhas+habilidades+para+evoluir+constantemente+na+%C3%A1rea." />
 </p>
+
 
 <p align="center">
   <img src="https://res.cloudinary.com/superfolio/image/upload/v1620689979/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f63362f33332f63322f63363333633230656465383266306530636564376435373064626533613166332e676966_yjuh2s.gif" width="100%"/>
