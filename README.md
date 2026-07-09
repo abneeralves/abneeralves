@@ -4,12 +4,9 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=7AA2F7&center=true&vCenter=true&width=900&lines=Ol%C3%A1!+Meu+nome+%C3%A9+Abner+Alves,+sou+formado+em+An%C3%A1lise+e+Desenvolvimento+de+Sistemas;Atuo+como+desenvolvedor+de+software+e+estou+sempre+aprendendo+novas+tecnologias;+e+aprimorando+minhas+habilidades+para+evoluir+constantemente+na+%C3%A1rea." />
 </p>
 
-
 <p align="center">
   <img src="https://res.cloudinary.com/superfolio/image/upload/v1620689979/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f63362f33332f63322f63363333633230656465383266306530636564376435373064626533613166332e676966_yjuh2s.gif" width="100%"/>
 </p>
-
-<h2 align="center">📊 Estatísticas</h2>
 
 <p align="center">
   <img height="170em" src="https://streak-stats.demolab.com?user=abneeralves&theme=tokyonight&hide_border=true&background=0d1117"/>
@@ -23,15 +20,11 @@
   />
 </p>
 
-<h2 align="center">🛠️ Tecnologias</h2>
-
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,next,tailwind,nodejs,python,linux,googlecloud,nest,prisma,postman" />
   </a>
 </p>
-
-<h2 align="center">🚀 Vamos nos conectar?</h2>
 
 <p align="center"> 
   <a href="https://portfolioabneralves.vercel.app" target="_blank"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=#FF7139" target="_blank"></a>
