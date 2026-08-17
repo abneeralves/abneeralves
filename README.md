@@ -10,7 +10,7 @@
 
 <p align="center">
   <img height="170em" src="https://streak-stats.demolab.com?user=abneeralves&theme=tokyonight&hide_border=true&background=0d1117"/>
-  <img height="170em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=abneeralves&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117"/>
+  <img height="170em" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=abneeralves&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117"/>
 </p>
 
 <p align="center">
