@@ -5,18 +5,22 @@
 </p>
 
 <p align="center">
-  <img src="https://res.cloudinary.com/superfolio/image/upload/v1620689979/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f63362f33332f63322f63363333633230656465383266306530636564376435373064626533613166332e676966_yjuh2s.gif" width="100%"/>
-</p>
-
-<p align="center">
-  <img height="170em" src="https://streak-stats.demolab.com?user=abneeralves&theme=tokyonight&hide_border=true&background=0d1117"/>
-  <img height="170em" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=abneeralves&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117"/>
+  <img
+    height="170em"
+    src="https://streak-stats.demolab.com?user=abneeralves&theme=tokyonight&hide_border=true&background=0d1117"
+  />
+  <img
+    height="170em"
+    src="https://github-stats-extended.vercel.app/api/top-langs/?username=abneeralves&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117"
+  />
 </p>
 
 <p align="center">
   <img
+    width="100%"
     style="border-radius: 25px;"
-    src="https://github-readme-activity-graph.vercel.app/graph?username=abneeralves&theme=tokyo-night&bg_color=00000000&color=7aa2f7&line=7aa2f7&point=ffffff&area=true&hide_border=true"
+    src="https://github-readme-activity-graph-beryl-five.vercel.app/graph?username=abneeralves&theme=tokyo-night&bg_color=00000000&color=7aa2f7&line=7aa2f7&point=ffffff&area=true&hide_border=true"
+    alt="Abner Alves GitHub Activity Graph"
   />
 </p>
 
